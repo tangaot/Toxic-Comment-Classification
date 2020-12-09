@@ -1,0 +1,17 @@
+numpy
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+pandas
+matplotlib
+seaborn
+sklearn
+wordcloud
+Cython
+textacy
+nltk
+textblob
+time
+tensorflow
+keras
+gensim
